@@ -128,10 +128,14 @@ npm run dev
 
 ## 📷 Screenshots
 
+### 🔐 Login Page
+![Login Page](.assets/Screenshots/login-page.png)
 
-```markdown
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-```
+### 🛠 Admin Dashboard
+![Admin Dashboard](.assets/Screenshots/admin-dashboard.png)
+
+### 👤 Employee Dashboard
+![Employee Dashboard](.assets/Screenshots/employee-dashboard.png)
 
 ---
 
