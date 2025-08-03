@@ -129,13 +129,13 @@ npm run dev
 ## 📷 Screenshots
 
 ### 🔐 Login Page
-![Login Page](./src/assets/Screenshots/login-page.png)
+![Login Page](./src/assets/Screenshots/login_page.png)
 
 ### 🛠 Admin Dashboard
-![Admin Dashboard](./src/assets/Screenshots/admin-dashboard.png)
+![Admin Dashboard](./src/assets/Screenshots/admin_dashboard.png)
 
 ### 👤 Employee Dashboard
-![Employee Dashboard](./src/assets/Screenshots/employee-dashboard.png)
+![Employee Dashboard](./src/assets/Screenshots/employee_dashboard.png)
 
 ---
 
